@@ -1,5 +1,5 @@
 package com.designpattern.prototype;
-
+//Prototype Design Pattern
 public class PrototypeDemo {
 
 	public static void main(String[] args) throws CloneNotSupportedException {
